@@ -1,4 +1,4 @@
-jQuery Highlight Nav Plugin plugin
+jQuery Highlight Nav plugin
 =======================
 
 Highlight the current page in the nav. For a given nav object, add a class to a links immediate parent, based on whether it matches the current URL.
